@@ -1,9 +1,7 @@
 # Cosmos 
-## Objective 
-To climb as high as you can by jumping on the platforms
-without missing any of them. 
+Cosmos is a fun platformer game where the goal is to jump up on the platforms without falling off! 
 ## Gameplay Instructions
-Use the arrow left and right keys to move. 
+Press space to begin jumping, and use the left and right arrow keys to keys to move to align your character with the next platform
 ## Scoring 
 The number of pixels climbed will be shown on the screen
 ## Screen Mock-up
